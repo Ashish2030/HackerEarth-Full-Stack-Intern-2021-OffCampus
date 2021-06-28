@@ -1,5 +1,5 @@
 <h1 align="center">𝐅𝐫𝐢𝐞𝐧𝐝𝐬 𝐃𝐢𝐫𝐞𝐜𝐭𝐨𝐫𝐲 𝐔𝐬𝐢𝐧𝐠 𝐑𝐮𝐛𝐲</h1>
-<p align="center">:octocat: 🌟ᴛʜɪꜱ ɪꜱ ᴍʏ ᴍᴏɴᴏʟɪᴛʜɪᴄ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴ ᴍᴀᴅᴇ ʙʏ ᴍᴇ ᴜꜱɪɴɢ ʀᴜʙʏ ʟᴀɴɢᴜᴀɢᴇ ᴀɴᴅ ʀᴜʙʏ ᴏɴ ʀᴀɪʟꜱ ꜰʀᴀᴍᴇᴡᴏʀᴋ 💻 🎯 🚀  <p><br>
+<p align="center"> :octocat:🌟ᴛʜɪꜱ ɪꜱ ᴛʜᴇ ꜱᴏʟᴜᴛɪᴏɴ ᴏꜰ ʜᴀᴄᴋᴇʀᴇᴀʀᴛʜ(ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ɪɴᴛᴇʀɴ) ᴍᴀᴅᴇ ʙʏ ᴍᴇ 💻 🎯 🚀 <p><br>
 <a href="https://github.com/ashish2030/HackerEarth-Full-Stack-Intern-2021-OffCampus/fork" target="blank">
 
 <p align="center">
