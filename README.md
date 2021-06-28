@@ -1,4 +1,4 @@
-<h1 align="center">𝐅𝐫𝐢𝐞𝐧𝐝𝐬 𝐃𝐢𝐫𝐞𝐜𝐭𝐨𝐫𝐲 𝐔𝐬𝐢𝐧𝐠 𝐑𝐮𝐛𝐲</h1>
+<h1 align="center">𝐇𝐚𝐜𝐤𝐞𝐫𝐄𝐚𝐫𝐭𝐡-𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤-𝐈𝐧𝐭𝐞𝐫𝐧</h1>
 <p align="center"> :octocat:🌟ᴛʜɪꜱ ɪꜱ ᴛʜᴇ ꜱᴏʟᴜᴛɪᴏɴ ᴏꜰ ʜᴀᴄᴋᴇʀᴇᴀʀᴛʜ(ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ɪɴᴛᴇʀɴ) ᴍᴀᴅᴇ ʙʏ ᴍᴇ 💻 🎯 🚀 <p><br>
 <a href="https://github.com/ashish2030/HackerEarth-Full-Stack-Intern-2021-OffCampus/fork" target="blank">
 
