@@ -1,3 +1,8 @@
+<p align="center">
+    <a href="https://hackerearthjobs.recruiterbox.com/jobs/fk0uvv8/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic">
+        <img src="https://user-images.githubusercontent.com/61516051/126544863-d2000145-626c-4423-aabb-cb4517732963.png" width="40%">
+    </a>
+</p>
 <h1 align="center">𝐇𝐚𝐜𝐤𝐞𝐫𝐄𝐚𝐫𝐭𝐡-𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤-𝐈𝐧𝐭𝐞𝐫𝐧</h1>
 <p align="center"> :octocat:🌟ᴛʜɪꜱ ɪꜱ ᴛʜᴇ ꜱᴏʟᴜᴛɪᴏɴ ᴏꜰ ʜᴀᴄᴋᴇʀᴇᴀʀᴛʜ(ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ɪɴᴛᴇʀɴ) ᴍᴀᴅᴇ ʙʏ ᴍᴇ 💻 🎯 🚀 <p><br>
 <a href="https://github.com/ashish2030/HackerEarth-Full-Stack-Intern-2021-OffCampus/fork" target="blank">
@@ -21,7 +26,18 @@
 [![GitHub repo size](https://img.shields.io/github/repo-size/ashish2030/HackerEarth-Full-Stack-Intern-2021-OffCampus)](https://github.com/ashish2030/HackerEarth-Full-Stack-Intern-2021-OffCampus/archive/master.zip)
  
 
- <p align="center"><img src="https://github.com/Ashish2030/HackerEarth-Full-Stack-Intern-2021-OffCampus/blob/main/Screenshot%20.png"></p>
+<div align="center">
+       <img src="https://user-images.githubusercontent.com/61516051/126545455-078f5928-dafc-4e84-8ffe-c50eb3f5227c.png" width="110%">
+  </div>
+  
+  
+  <h1 align="center"> 
+   𝐄𝐦𝐚𝐢𝐥
+</h1>
+
+<div align="center">
+       <img src="https://user-images.githubusercontent.com/61516051/126550337-a943a28c-15c0-47ac-9771-c1d09ca0df42.png" width="110%">
+  </div>
 
 <p align="center">
     <a href="https://frienddirectory.herokuapp.com/" target="blank">View Demo</a>
